@@ -66,7 +66,7 @@
 
 # [대표 이미지]<a name='3'></a>
 
-![그림](./image/Image3.png)
+![그림](./image/Image3.PNG)
 
 <br><br>
 
