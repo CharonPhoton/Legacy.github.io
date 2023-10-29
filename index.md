@@ -1,3 +1,4 @@
+# 프로젝트명: Legacy Story (Devloper : Photon)
 
 # [ 목차 ]
 
