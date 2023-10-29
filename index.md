@@ -1,4 +1,3 @@
-![image](https://github.com/CharonPhoton/LegacyStory.github.io/assets/114118704/1863fc5f-9690-4d8c-891a-a85497bde93e)# 프로젝트명: Legacy Story (Devloper : Photon)
 
 # [ 목차 ]
 
