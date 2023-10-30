@@ -19,12 +19,10 @@
 #####  6-e. [플레이어 캐릭터 속성(파라미터)](#6-5)
 #####  6-f. [게임의 규칙](#6-6)
 #####  6-g. [게임에서 사용될 공식](#6-7)
-### 7. [요구사항](#7)
+### 7. [직업 특징](#7)
 ### 8. [요구사항](#8)
-### 9. [이벤트 흐름도](#9)
-### 10. [스토리보드](#10)
-### 11. [프로토타입 개발 요구사항](#11)
-### 12. [프로토타입 개발작업 일정](#12)
+### 11. [프로토타입 개발 요구사항](#9)
+### 12. [프로토타입 개발작업 일정](#10)
 
 # [컨셉]<a name='1'></a>
 
@@ -294,8 +292,22 @@
  - 만약 해당 객체가 에너지를 보유했을 경우 -> 일정 시간마다 에너지가 1이 차오른다.
  - 만약 공격 타겟이 전투 불능이 되었을 경우 -> 조건에 맞는 적을 임의적으로 선택해 타겟으로 삼는다.
 
-# [ 요구사항 ]<a name='7'></a>
+# [ 직업 특징 ]<a name='7'></a>
+<img src="./image/Berserker_Info.PNG">
+<img src="./image/Spearman_Info.PNG">
+<img src="./image/Defender_Info.PNG">
+<img src="./image/Magician_Info.PNG">
+<img src="./image/MagicShooter_Info.PNG">
+<img src="./image/Magician_Info.PNG">
+<img src="./image/Archer_Info.PNG">
+<img src="./image/Gunner_Info.PNG">
+<img src="./image/Infighter_Info.PNG">
+<img src="./image/Blader_Info.PNG">
+<img src="./image/Robotic Sentinel_Info.PNG">
+<img src="./image/Cymation_Info.PNG">
+<img src="./image/Cyborg_Info.PNG">
 
+# [ 요구사항 ]<a name='8'></a>
 
 
   # [ 프로토타입 개발 요구사항 ]<a name='10'></a>
