@@ -298,7 +298,6 @@
 <img src="./image/Defender_Info.PNG">
 <img src="./image/Magician_Info.PNG">
 <img src="./image/MagicShooter_Info.PNG">
-<img src="./image/Magician_Info.PNG">
 <img src="./image/Archer_Info.PNG">
 <img src="./image/Gunner_Info.PNG">
 <img src="./image/Infighter_Info.PNG">
