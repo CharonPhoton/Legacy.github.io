@@ -572,7 +572,7 @@ UI가 왼쪽에 출력되며, 그곳에서 캐릭터의 현재 상황을 알 수
 저장된 데이터는 홈 화면과 전투 씬에서도 그대로 출력이 된다.
 
 <video width="100%" height="100%" controls="controls">
-  <source src="./video/week10-2.mp4" type="video/mp4" />
+  <source src="./video/week10-3.mp4" type="video/mp4" />
 </video>
 
 분대원 추가로 ( 영상의 버전은 부대 모집 ) 캐릭터 카드를 생성할 수 있다.
